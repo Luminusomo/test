@@ -7,13 +7,17 @@ https://www.google.com/
 
 https://www.youtube.com/
 
+https://www.xbox.com/en-us/play/
+
+https://www.microsoft.com/
+
 https://www.facebook.com/
 
 https://www.twitter.com/
 
 https://www.instagram.com/
 
-https://www.wikipedia.org
+https://www.wikipedia.org/
 
 https://www.yandex.ru/
 
@@ -31,9 +35,9 @@ https://www.twitch.tv/
 
 https://www.pintrest.com/
 
-https://www.roblox.com
+https://www.roblox.com/
 
-https://www.minecraft.net
+https://www.minecraft.net/
 
 https://www.epicgames.com/
 
@@ -52,10 +56,6 @@ https://www.ask.com/
 https://www.archive.org/web/
 
 https://www.excite.com/
-
-https://www.microsoft.com/
-
-https://www.xbox.com/en-us/play/
 
 https://www.watchparty.me/
 
