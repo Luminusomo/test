@@ -1,19 +1,36 @@
 # test
-ReadandWrite Heck
+ReadandWrite Exploit
 
 LINK LIST
 
-https://www.google.com
+https://www.google.com/
 
-https://www.microsoft.com
+https://bing.com/
 
-https://www.xbox.com/en-us/play
+https://www.duckduckgo.com/
 
-https://www.watchparty.me
+https://www.yahoo.com/
 
-https://www.giggl.com
+https://www.ask.com/
 
-https://www.discord.com/app
+https://www.archive.org/web/
 
-https://www.mail.google.com
+https://www.excite.com/
 
+https://www.microsoft.com/
+
+https://www.xbox.com/en-us/play/
+
+https://www.watchparty.me/
+
+https://www.giggl.com/
+
+https://www.discord.com/app/
+
+https://www.mail.google.com/
+
+https://www.newgrounds.com/
+
+https://www.amazon.com/
+
+https://www.ebay.com/
