@@ -43,9 +43,9 @@ https://www.epicgames.com/
 
 https://www.fortnite.com/
 
-https://ww.steampowered.com/
+https://www.steampowered.com/
 
-https://bing.com/
+https://www.bing.com/
 
 https://www.duckduckgo.com/
 
