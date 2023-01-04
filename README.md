@@ -45,6 +45,8 @@ https://www.fortnite.com/
 
 https://www.steampowered.com/
 
+https://www.gogoanime.tel/
+
 https://www.bing.com/
 
 https://www.duckduckgo.com/
